@@ -1,0 +1,15 @@
+{
+  "name": "codecare-challenge",
+  "version": "1.0.0",
+  "description": "CodeCare Basic Coding Skill Challenge — filter lines by character frequency",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node solution.js",
+    "test": "node test.js"
+  },
+  "author": "Vlad",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
